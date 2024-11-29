@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "311275361690",
+    "project_id": "socialmedia-d5867",
+    "storage_bucket": "socialmedia-d5867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311275361690:android:f528d69869d284e86c1623",
+        "android_client_info": {
+          "package_name": "com.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311275361690-tdfts4v92e7oo86apincsj9l34rj7att.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBV0VhZftMrLZSB9xrY-G_C0qkfrP_Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311275361690-tdfts4v92e7oo86apincsj9l34rj7att.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311275361690-ej492sq0u1n2k1fo1v38vm2aluv91teb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.socialmedia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311275361690:android:708333763f24ca536c1623",
+        "android_client_info": {
+          "package_name": "com.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311275361690-37seq339mo6ifehrpakqjp7o54a52b1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialmedia",
+            "certificate_hash": "13c5a9f8858f9f12ccde1abcae050fc64fbdfe72"
+          }
+        },
+        {
+          "client_id": "311275361690-tdfts4v92e7oo86apincsj9l34rj7att.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBV0VhZftMrLZSB9xrY-G_C0qkfrP_Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311275361690-tdfts4v92e7oo86apincsj9l34rj7att.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311275361690-ej492sq0u1n2k1fo1v38vm2aluv91teb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.socialmedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
